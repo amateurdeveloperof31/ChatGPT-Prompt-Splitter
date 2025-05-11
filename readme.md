@@ -9,9 +9,7 @@ A sleek Tkinter-based desktop app that splits long text prompts into manageable 
 - 📋 Copy each part to clipboard easily
 
 ## 📸 Screenshot
-- ![Uploading Screenshot 2025-05-11 14-51-12.png…]()
-
-
+- ![Screenshot 2025-05-11 14-51-12](https://github.com/user-attachments/assets/1ce058ed-f0da-4a92-a263-0894e98054fa)
 
 ## 🚀 Getting Started
 
