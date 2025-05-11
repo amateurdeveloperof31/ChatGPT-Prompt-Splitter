@@ -7,8 +7,6 @@ A sleek Tkinter-based desktop app that splits long text prompts into manageable 
 - ⚙️ Set custom word limits (default: 4000)
 - 🪓 Automatically splits large prompts into sequential parts
 - 📋 Copy each part to clipboard easily
-- 📢 Final chunk gives ChatGPT a clear instruction to summarize everything
-- 🎨 Dark-themed modern UI with styled buttons and frames
 
 ## 📸 Screenshot
 
